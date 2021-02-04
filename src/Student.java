@@ -9,5 +9,9 @@ public class Student {
         myCalculate.smallest();
 
         System.out.println("Calculator");
+        System.out.println("Is");
+        System.out.println("Working");
+        System.out.println("On");
+        System.out.println("Calculations");
     }
 }
