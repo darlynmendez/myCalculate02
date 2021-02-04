@@ -7,5 +7,7 @@ public class Student {
         myCalculate.average();
         myCalculate.largest();
         myCalculate.smallest();
+
+        System.out.println("Calculator");
     }
 }
